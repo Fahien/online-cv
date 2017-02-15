@@ -49,11 +49,21 @@
 		{% endif %}
 		
 		{% if site.twitter %}
-		<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
+		<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}"
+			target="_blank">{{site.twitter}}</a></li>
 		{% else %}
 		<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/@Fahien"
 			target="_blank">@Fahien</a></li>
 		{% endif %}
+
+		{% if site.facebook %}
+		<li class="facebook"><i class="fa fa-facebook"></i><a href="https://www.facebook.com/{{site.facebook}}"
+			target="_blank">{{site.facebook}}</a></li>
+		{% else %}
+		<li class="facebook"><i class="fa fa-facebook"></i><a href="https://www.facebook.com/Fahien"
+			target="_blank">Fahien</a></li>
+		{% endif %}
+
 		</ul>
 	</div><!--//contact-container-->
 	{% include education.html %}
