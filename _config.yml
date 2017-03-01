@@ -1,4 +1,3 @@
-
 title: My Resume | Fahien
 description: This is my curriculum vitae
 url: 'http://fahien.me'
@@ -26,5 +25,8 @@ linkedin: antoniocaggiano
 github: Fahien
 twitter: '@Fahien'
 facebook: Fahien
+
+# Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-68855324-1
 
 #Update all the sections by editing the files inside _includes folder.
