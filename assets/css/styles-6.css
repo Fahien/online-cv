@@ -305,3 +305,17 @@ used for profile image
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
+.logo {
+  height: 1em;
+  float: right;
+}
+
+.img
+{
+  height: 1.5em;
+}
+
+.spinvector
+{
+  height: 3em;
+}
