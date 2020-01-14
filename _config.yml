@@ -1,6 +1,6 @@
 title: My Resume | Fahien
 description: This is my curriculum vitae
-url: 'http://fahien.me'
+url: 'https://www.antoniocaggiano.eu'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -20,7 +20,7 @@ pic: profile2.png  #place a 100x100 picture inside /assets/images/ folder and pr
 #sidebar links
 email: infoantoniocaggiano@gmail.com
 phone: +39 348 059 8485
-website: fahien.me #do not add http://
+website: antoniocaggiano.eu #do not add http://
 linkedin: antoniocaggiano
 github: Fahien
 twitter: '@Fahien'
